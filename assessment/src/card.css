@@ -1,0 +1,39 @@
+.card-body{
+   
+    display: none;
+    background-color: #b7bab5;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5%;
+    
+    margin: 25%;
+    margin-top: 0;
+    border: 0px;
+    font-size: 3vw;
+    
+}
+
+img{
+    width: 100%;
+    margin: auto;
+    align-self: center;
+    justify-self: center;
+}
+.head{
+    display: flexbox;
+}
+.name{
+   float: left;
+    vertical-align: text-top;
+}
+
+.hp{
+    float: right;
+}
+.foot{
+    text-align: left;
+}
+.attacks{
+  justify-self: left;
+   
+}

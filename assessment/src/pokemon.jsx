@@ -26,6 +26,7 @@ const pokemon = [
         moves: ['Tackle', 'Rock Slide'],
         image_src: 'images/geodude.jpg'
     },
+    
 ]
 
 export default pokemon
