@@ -1,6 +1,4 @@
-/* 
-This file contains the pokemon data. DO NOT CHANGE
-*/
+
 const pokemon = [
     {
         name: 'Pikachu',
