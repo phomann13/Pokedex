@@ -4,10 +4,6 @@ import { useState } from "react";
 import Card from './card.jsx';
 
 
-/* 
-This is the component for the pokedex page. 
-Feel free to edit anything in this file except the name of the component.
-*/
 
 function clicked(){
     document.getElementById("cbody").style.display = 'grid'
