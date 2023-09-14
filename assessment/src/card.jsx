@@ -1,10 +1,6 @@
 import './card.css'
 import pokemon from './pokemon.jsx'
 
-/*
-This component is intended to be used for the pokemon card.
-We strongly recommend using this component.
-*/
 const Card = ({info}) => {
     let name = info[0]
     let hp = info[1];
